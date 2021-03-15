@@ -1,7 +1,7 @@
 {
     "prefix": "bday",
     "client": {
-        "token": "<BOT_TOKEN>",
+        "token": "ODE5MzI1MTkxODI1NjUzODEx.YEk-DA.OmsWk6m0x2KEc8Q9EsHkSQqvqUQ",
         "intents": [
             "GUILDS",
             "GUILD_PRESENCES",
@@ -19,14 +19,6 @@
                 "sweepInterval": 1
             }
         }
-    },
-    "mysql": {
-        "host": "localhost",
-        "database": "<DATABASE_NAME>",
-        "user": "<DATABASE_USERNAME>",
-        "password": "<DATABASE_PASSWORD>",
-        "charset": "utf8mb4",
-        "connectionLimit": 25
     },
     "api": {
         "port": 8080
@@ -66,7 +58,7 @@
         "success": "#1cfe86",
         "warning": "#ffa255",
         "error": "#ff0000",
-        "role": "#ac1cfe"
+        "role": "#703dcc"
     },
     "emotes": {
         "confirm": "✅",
